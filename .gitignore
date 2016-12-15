@@ -38,9 +38,5 @@ jspm_packages
 .idea/modules.xml
 .idea/temps-reel.iml
 .idea/workspace.xml
-app/
-.gitignore
 .meteor/
-client/
-package.json
-server/
+.idea/inspectionProfiles/
