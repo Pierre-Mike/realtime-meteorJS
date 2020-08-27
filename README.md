@@ -1,2 +1,2 @@
-# temps-reel
-chat en temps reel avec node js => meteor => framework7 
+# POC Meteor js realtime chat
+Simple chat with meteor js POC
